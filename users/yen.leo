@@ -310,7 +310,7 @@ print("hello")
 
 &lt;small&gt;
 Created by [s40523247](http://chiamingyen.github.io/kmolab/blog/)
-&lt;/small&gt;
+
 
 [40523247](blog/index.html)
 
