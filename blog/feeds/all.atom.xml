@@ -78,7 +78,8 @@ document["b1"].bind("click",b1)
 &lt;/p&gt;
 &lt;p&gt;@edit -&amp;gt;編輯MD檔&lt;/p&gt;
 &lt;p&gt;@path-&amp;gt;路徑&lt;/p&gt;
-&lt;p&gt;@button-&amp;gt;設定按鈕&lt;/p&gt;</summary><category term="每週練習"></category></entry><entry><title>W14 練習</title><link href="./w14-lian-xi.html" rel="alternate"></link><published>2016-12-12T14:35:00+08:00</published><updated>2016-12-12T14:35:00+08:00</updated><author><name>40523247</name></author><id>tag:,2016-12-12:./w14-lian-xi.html</id><summary type="html">&lt;p&gt;以下為第十四週開始的城市練習,要利用 &lt;a href="http://mde.tw/2016fallcp/course/Python3Programs.txt"&gt;http://mde.tw/2016fallcp/course/Python3Programs.txt&lt;/a&gt; 要整理Brython 的用法.
+&lt;p&gt;@button-&amp;gt;設定按鈕&lt;/p&gt;
+&lt;p&gt;leo 檔案 settings 節點用法&lt;/p&gt;</summary><category term="每週練習"></category></entry><entry><title>W14 練習</title><link href="./w14-lian-xi.html" rel="alternate"></link><published>2016-12-12T14:35:00+08:00</published><updated>2016-12-12T14:35:00+08:00</updated><author><name>40523247</name></author><id>tag:,2016-12-12:./w14-lian-xi.html</id><summary type="html">&lt;p&gt;以下為第十四週開始的城市練習,要利用 &lt;a href="http://mde.tw/2016fallcp/course/Python3Programs.txt"&gt;http://mde.tw/2016fallcp/course/Python3Programs.txt&lt;/a&gt; 要整理Brython 的用法.
 &lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
